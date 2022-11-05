@@ -1,5 +1,13 @@
 # Hosting a Full-Stack Application
 
+## Backend url
+[http://Udagramapi-env.eba-7fzr4vyh.us-east-1.elasticbeanstalk.com/]
+
+## Frontend url
+[http://udagram-bucket1.s3-website-us-east-1.amazonaws.com]
+
+
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
