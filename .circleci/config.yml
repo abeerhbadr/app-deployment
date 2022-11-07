@@ -50,7 +50,7 @@ jobs:
             npm run api:build
   # deploy step will run only after manual approval
   deploy:
-    artifact: <path_to_zip_file>
+    artifact: ./www/Archive.zip
     docker:
       - image: "cimg/base:stable"
       # more setup needed for aws, node, elastic beanstalk
