@@ -1,7 +1,7 @@
 # Hosting a Full-Stack Application
 
 ## Backend url
-http://Udagramapi-env.eba-7fzr4vyh.us-east-1.elasticbeanstalk.com/
+http://udagramapi-env.eba-mfjtiy8x.us-east-1.elasticbeanstalk.com/
 
 ## Frontend url
 http://udagram-bucket1.s3-website-us-east-1.amazonaws.com
